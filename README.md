@@ -45,9 +45,10 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<h2>🐍 My Contributions 🐍</h2>
+<br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zia-hussain/zia-hussain/output/github-contribution-grid-snake.svg?raw=true&sanitize=true&duration=1800" />
+
   
   <br/><br/><br/>
 </div>
