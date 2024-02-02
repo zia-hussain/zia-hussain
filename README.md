@@ -22,9 +22,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Blogging App**
+ 🔭 I’m currently working on **a Shopping List**
  
- 🌱 I’m currently learning **React.js, Firebase**
+ 🌱 I’m currently learning **React.js**
 
 💬 Ask me about **JavaScript, HTML, CSS... or anything [here](https://mail.google.com/mail/u/0/#inbox)**
 
