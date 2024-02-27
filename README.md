@@ -24,7 +24,7 @@
  
  🔭 I’m currently working on *Contact App (React.js)**
  
- 🌱 I’m currently learning **React.js and Tailwind**
+ 🌱 I’m currently learning **React.js**
 
 💬 Ask me about **JavaScript, HTML, CSS... or anything [here](https://mail.google.com/mail/u/0/#inbox)**
 
