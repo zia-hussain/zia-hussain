@@ -24,7 +24,7 @@
  
  🔭 I’m currently working on *Movie App (React.js)**
  
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **REACT.JS**
 
 💬 Ask me about **JavaScript, HTML, CSS... or anything [here](https://mail.google.com/mail/u/0/#inbox)**
 
