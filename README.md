@@ -22,7 +22,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on *Movie App (React.js)**
+ 🔭 I’m currently working on *Problem Solving (LeetCode * JavaScript)**
  
  🌱 I’m currently learning **REACT.JS**
 
