@@ -117,9 +117,9 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=zia-hussain\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=zia-hussain&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zia-hussain&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zia-hussain&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
