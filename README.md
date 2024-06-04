@@ -36,7 +36,7 @@
 
 - 🔭 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **REACT.JS & DSA**
+- 🌱 I’m currently learning **REACT.JS**
 
 - 👨‍💻 All of my projects are available at [Zia's workspace](https://myportfolio-zia.netlify.app/)
 
