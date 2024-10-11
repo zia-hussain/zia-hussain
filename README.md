@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on **Chat-App (MERN)**
 
-- 🌱 I’m currently learning **REACT.JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [Zia's workspace](https://myportfolio-zia.netlify.app/)
 
