@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [Zia's workspace](https://myportfolio-zia.netlify.app/)
+- 👨‍💻 All of my projects are available at [Zia's workspace](https://ziahussain.vercel.app)
 
 - 💬 Ask me about **JS, REACT, JAVA and DSA**
 
