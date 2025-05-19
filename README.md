@@ -1,4 +1,4 @@
-![logo](https://thexpkiufbzifekzdbxg.supabase.co/storage/v1/object/sign/aboutimages/771f0030-72e3-4980-9475-c668fc970316/1747552160910.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5XzI3MmUxNzE1LWQ4MTQtNGNkNi05N2NlLTUyZmFmZDExYmU2NiJ9.eyJ1cmwiOiJhYm91dGltYWdlcy83NzFmMDAzMC03MmUzLTQ5ODAtOTQ3NS1jNjY4ZmM5NzAzMTYvMTc0NzU1MjE2MDkxMC5wbmciLCJpYXQiOjE3NDc1NTIzMTAsImV4cCI6MTc3OTA4ODMxMH0.3wzSqmfGJgGen672D5ALd-egNVwS8fxdOjMl3wzeWR0)
+![logo](https://media.licdn.com/dms/image/v2/D4D16AQGXVcI9iGNeVA/profile-displaybackgroundimage-shrink_350_1400/B4DZbERXLeHAAY-/0/1747049625992?e=1753315200&v=beta&t=yOt_JGg3zxNbaZC3IuvusGEy6nCV75HY2ulOZo25Z30)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Syed Zia Hussain Shah.
