@@ -3,10 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Syed Zia Hussain Shah.
 </h1>
-<h3 align="center" justify="center">A passionate Web Developer from Karachi-Pakistan <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/255px-Flag_of_Pakistan.svg.png" alt="Pakistan Flag" width="30"> </h3>
+<h3 align="center" justify="center">A passionate Software Engineer from Karachi-Pakistan <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/255px-Flag_of_Pakistan.svg.png" alt="Pakistan Flag" width="30"> </h3>
 
 
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. Also, I love exploring new tech stacks 💻 and leveraging them to build cool kinds of stuff 🛠️</p>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since that time. Also, I love exploring new tech stacks 💻 and leveraging them to build cool kinds of stuff 🛠️</p>
 <p align="center"> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zia-hussain.zia-hussain" alt="Zia Hussain" />
 </p>
@@ -38,7 +38,7 @@
 
 - 👨‍💻 All of my projects are available at [Zia's workspace](https://ziahussain.vercel.app)
 
-- 💬 Ask me about **JS, REACT, JAVA and DSA**
+- 💬 Ask me about **JS, REACT, JAVA, and DSA**
 
 - 📫 How to reach me **syedziashahgillani76@gmail.com**
 
